@@ -1,2 +1,5 @@
+import uvicorn
+
+
 def main() -> None:
-    print("Hello from ems-backend-python!")
+    uvicorn.run("ems_backend_python.main:app")

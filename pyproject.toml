@@ -1,7 +1,7 @@
 [project]
 name = "ems-backend-python"
 version = "0.1.0"
-description = "Add your description here"
+description = "Employee Management System backend API built with FastAPI"
 readme = "README.md"
 authors = [
     { name = "Yash Shah", email = "43175218+shahyash1136@users.noreply.github.com" }
